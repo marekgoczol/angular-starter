@@ -1,0 +1,7 @@
+{
+	"name": "spa",
+	"scripts": ["main.js"],
+	"paths": ["libs"],
+	"main": "main.js",
+	"locals": ["app"]
+}
