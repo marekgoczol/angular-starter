@@ -1,6 +1,6 @@
 {
-	"name": "app",
-	"scripts": ["index.js"],
-	"styles": ["css/*"],
-	"locals": ["test"]
+    "name": "app",
+    "scripts": ["index.js"],
+    "styles": ["css/*"],
+    "locals": ["test"]
 }

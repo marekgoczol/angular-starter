@@ -1,5 +1,5 @@
 {
-	"name": "test",
-	"scripts": ["index.js", "app-test-directive.js"],
-	"templates": ["test.html"]
+    "name": "test",
+    "scripts": ["index.js", "app-test-directive.js"],
+    "templates": ["test.html"]
 }
